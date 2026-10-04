@@ -40,5 +40,5 @@ Welcome to my main data analytics repository! This portfolio showcases end-to-en
 
 ## 📬 Contact & Links
 
-* **LinkedIn:** [Link your LinkedIn profile here]
+* **LinkedIn:** www.linkedin.com/in/samar-jaghadi-068a732ab
 * **Email:** samarmj3@gmail.com
