@@ -179,21 +179,6 @@ The model can be viewed as a **recall-oriented screening model** rather than a p
 
 Account verification is a sensitive classification task. Model predictions should not be treated as proof of identity, credibility, or trustworthiness. Any operational use should include human review, monitoring for unintended bias, and careful consideration of how false positives and false negatives affect users.
 
-## Project Files
-
-```text
-project-2-tiktok-analysis/
-├── README.md
-├── TikTok_Verified_Status_Logistic_Regression.ipynb
-├── images/
-│   ├── video_duration_boxplot.png
-│   ├── video_views_boxplot.png
-│   ├── video_likes_boxplot.png
-│   ├── video_comments_boxplot.png
-│   ├── transcription_length_distribution.png
-│   └── correlation_heatmap.png
-└── data/
-```
 
 ## Skills Demonstrated
 
