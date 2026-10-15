@@ -216,23 +216,6 @@ Future work should evaluate performance across different creator and content gro
 
 ---
 
-## Project Structure
-
-```text
-project-2-tiktok-analysis/
-│
-├── README.md
-├── TikTok_Claim_vs_Opinion_ML_FINAL.ipynb
-├── tiktok_dataset.csv
-└── images/
-    ├── model_b_confusion_matrix.png
-    └── model_b_feature_importances.png
-```
-
-The cleaned notebook automatically creates the `images/` directory when it is run.
-
----
-
 ## Technologies
 
 - Python
@@ -255,47 +238,6 @@ The cleaned notebook automatically creates the `images/` directory when it is ru
 - Confusion matrices
 - Classification reports
 - Feature importance analysis
-
----
-
-## How to Run
-
-### 1. Clone or download the project
-
-Place the notebook and dataset in the same project folder.
-
-### 2. Install dependencies
-
-```bash
-pip install pandas matplotlib seaborn scikit-learn xgboost jupyter
-```
-
-### 3. Add the dataset
-
-Make sure the dataset is named:
-
-```text
-tiktok_dataset.csv
-```
-
-and is located in the same folder as the notebook.
-
-### 4. Run the notebook
-
-Open:
-
-```text
-TikTok_Claim_vs_Opinion_ML_FINAL.ipynb
-```
-
-and run all cells from beginning to end.
-
-The notebook will generate:
-
-- Model evaluation metrics
-- Confusion matrices
-- Feature-importance visualizations
-- Model comparison results
 
 ---
 
